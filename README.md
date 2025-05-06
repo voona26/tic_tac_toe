@@ -1,4 +1,4 @@
-"""# ⏱️ Web Stopwatch App"""
+# ⏱️ Web Stopwatch App
 
 A clean and interactive stopwatch web application built with HTML, CSS, and JavaScript. This app allows users to start, stop, reset, and record lap times with an intuitive UI.
 
